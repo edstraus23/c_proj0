@@ -1,0 +1,6 @@
+<map id="rte_bbdev_op_turbo_dec" name="rte_bbdev_op_turbo_dec">
+<area shape="rect" id="node1" title="Operation structure for Turbo decode." alt="" coords="317,78,499,105"/>
+<area shape="rect" id="node2" href="$structrte__bbdev__op__dec__turbo__tb__params.html" title="Turbo decode transport block parameters." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node3" href="$structrte__bbdev__op__dec__turbo__cb__params.html" title="Turbo decode code block parameters." alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node4" href="$structrte__bbdev__op__data.html" title="Data input and output buffer for BBDEV operations." alt="" coords="23,153,169,179"/>
+</map>

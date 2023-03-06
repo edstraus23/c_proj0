@@ -1,0 +1,8 @@
+<map id="rte_bbdev_op_cap" name="rte_bbdev_op_cap">
+<area shape="rect" id="node1" title="Operation capabilities supported by a device." alt="" coords="333,107,473,133"/>
+<area shape="rect" id="node2" href="$structrte__bbdev__op__cap__fft.html" title="List of the capabilities for the FFT." alt="" coords="30,5,191,32"/>
+<area shape="rect" id="node3" href="$structrte__bbdev__op__cap__ldpc__enc.html" title="List of the capabilities for the LDPC Encoder." alt="" coords="9,56,213,83"/>
+<area shape="rect" id="node4" href="$structrte__bbdev__op__cap__turbo__dec.html" title="List of the capabilities for the Turbo Decoder." alt="" coords="5,107,216,133"/>
+<area shape="rect" id="node5" href="$structrte__bbdev__op__cap__turbo__enc.html" title="List of the capabilities for the Turbo Encoder." alt="" coords="5,157,216,184"/>
+<area shape="rect" id="node6" href="$structrte__bbdev__op__cap__ldpc__dec.html" title="List of the capabilities for the LDPC Decoder." alt="" coords="9,208,213,235"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rte_bbdev_ops" name="rte_bbdev_ops">
+<area shape="rect" id="node1" title="Operations implemented by drivers." alt="" coords="19,251,137,278"/>
+<area shape="rect" id="node2" href="$structrte__bbdev.html" title=" " alt="" coords="151,555,237,581"/>
+<area shape="rect" id="node3" href="$structrte__bbdev__data.html" title=" " alt="" coords="441,251,563,278"/>
+<area shape="rect" id="node4" href="$structrte__bbdev__queue__data.html" title=" " alt="" coords="202,95,373,121"/>
+<area shape="rect" id="node5" href="$structrte__bbdev__queue__conf.html" title="Device queue configuration structure." alt="" coords="117,5,287,32"/>
+<area shape="rect" id="node6" href="$structrte__bbdev__stats.html" title="Device statistics." alt="" coords="311,5,437,32"/>
+</map>

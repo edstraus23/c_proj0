@@ -1,0 +1,6 @@
+<map id="rte_bbdev_op_ldpc_enc" name="rte_bbdev_op_ldpc_enc">
+<area shape="rect" id="node1" title="Operation structure for LDPC encode." alt="" coords="204,124,379,151"/>
+<area shape="rect" id="node2" href="$structrte__bbdev__op__enc__ldpc__cb__params.html" title="LDPC encode code block parameters." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$structrte__bbdev__op__enc__ldpc__tb__params.html" title="LDPC encode transport block parameters." alt="" coords="204,5,379,47"/>
+<area shape="rect" id="node4" href="$structrte__bbdev__op__data.html" title="Data input and output buffer for BBDEV operations." alt="" coords="403,13,550,39"/>
+</map>
